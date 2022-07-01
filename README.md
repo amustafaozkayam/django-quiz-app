@@ -33,15 +33,15 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- HTML
-- CSS
 - Django
+- Dj Rest Framework
+
 
 ## How To Use
 
 <!-- This is an example, please update according to your application -->
 
-To clone and run this application, you'll need [Git](https://github.com/hsynarsln/Django-weather-app.git) 
+To clone and run this application, you'll need [Git](https://github.com/amustafaozkayam/django-quiz-app.git) 
 ```bash
 # Clone this repository
 $ git clone https://github.com/aaron-clarusway/django_TODO_APPS.git
